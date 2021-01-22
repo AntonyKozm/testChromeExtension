@@ -2263,7 +2263,7 @@ body {
 
 table.ipbtable,tr.ipbtable,td.ipbtable {
     background: transparent;
-    color: #222;
+    color: #f4f4f49e;
     font-size: 11px;
     line-height: 135%
 }
@@ -2298,7 +2298,7 @@ img[attach_id] {
 
 a:link,a:visited,a:active {
     background: transparent;
-    color: #222;
+    color: #f4f4f4;
     text-decoration: underline
 }
 
@@ -2363,7 +2363,7 @@ div.borderwrap div.maintitle p img,div.borderwrap div.maintitlecollapse p img {
 .forumdesc,.forumdesc a:link,.forumdesc a:visited,.forumdesc a:active {
     background: transparent;
     font-size: 10px;
-    color: #546b91;
+    color: #f4f4f49e;
     line-height: 135%;
     margin: 2px 0 0 0;
     padding: 0
