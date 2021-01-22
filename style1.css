@@ -2246,7 +2246,7 @@ html {
 }
 
 body {
-    background: #FFF;
+    background: #373737;
     color: #222;
     font-family: Verdana, Tahoma, Arial, "Trebuchet MS", Sans-Serif, Georgia, Courier, "Times New Roman", Serif;
     font-size: 11px;
@@ -3006,19 +3006,19 @@ optgroup option {
 }
 
 .borderwrap h3,.maintitle,.maintitlecollapse {
-    border: 0px solid #2982cc;
-    border-bottom: 1px solid #5176b5;
+    border: 0px solid #373737;
+    border-bottom: 1px solid #373737;
     color: #FFF;
     font-size: 10px;
     font-weight: bold;
     margin: 0px;
     padding: 5px;
-    background-color: #111111;
+    background-color: #373737;
     background: #111111;
-    background: -moz-linear-gradient(top, #222222 0%, #111111 100%);
-    background: -webkit-linear-gradient(top, #222222 0%, #111111 100%);
-    background: linear-gradient(to bottom, #222222 0%, #111111 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#111111', endColorstr='#111111',GradientType=0 )
+    background: -moz-linear-gradient(top, #373737 0%, #373737 100%);
+    background: -webkit-linear-gradient(top, #373737 0%, #373737 100%);
+    background: linear-gradient(to bottom, #373737 0%, #373737 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#373737', endColorstr='#373737',GradientType=0 )
 }
 
 .maintitle td,.maintitle-text {
@@ -3055,8 +3055,8 @@ optgroup option {
 }
 
 table th,.borderwrap table th,.subtitle,.subtitlediv,.postlinksbar {
-    border-bottom: 1px solid #5176b5;
-    color: #3A4F6C;
+    border-bottom: 1px solid #373737;
+    color: #373737;
     font-size: 10px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -3155,7 +3155,7 @@ td.formbuttonrow {
 }
 
 .catend {
-    background: #2982CC;
+    background: #373737;
     color: #000;
     font-size: 1px;
     height: 5px
